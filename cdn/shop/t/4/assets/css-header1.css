@@ -1,0 +1,46 @@
+@media (min-width:1200px){.nav--lv1,.site-nav{height:100%}}@media (max-width:1440px){.site-nav .site-nav__link--main{padding-inline:12px}#header-sticky .site-nav__link--main{padding-inline:10px}}.header-contact .header-contact-item:not(:last-child){margin-inline-end:3rem}@media (max-width:991px){.header-contact .header-contact-item:not(:last-child){margin-inline-end:1rem}}.header-contact .header-contact-item:hover i{animation:phone 1s linear infinite}.header-contact a{font-size:10px;font-weight:500}.header-contact i{margin-inline-end:8px;font-size:15px}.header-top-icon-text{width:15px;margin-inline-end:6px}.header-top .header-link-item{position:relative;padding:10px 0}.header-top .header-link-item:not(:last-child){margin-inline-end:2rem}.header-top .header-link-item:after{content:"";position:absolute;inset-inline-start:0;bottom:-1px;width:0;height:1px;background-color:var(--color-text);transition:width var(--animation-speed)}.header-top .header-link-item a{color:var(--color-text)}.header-top .header-link-item:hover:after{width:100%}.header-top .header-link-item:hover a{color:var(--color-hover)}.header-top .block_social:after{content:"";display:block;clear:both;width:1px;height:50%;background-color:var(--color-text);z-index:9;position:absolute;inset-inline-end:0;top:50%;transform:translateY(-50%)}.header-top .header_text .highlight{min-width:40px;min-height:10px;line-height:10px;text-align:center;margin-inline-end:8px}@media (max-width:991px){.header-top .header_text{border-top:1px solid var(--color-border);padding:10px 0}}.site-header__search .search-header__content{display:flex}.site-header__search .search-header__submit{height:40px;min-width:120px;padding:0 2.5rem}.site-header__search .search-header__submit .search-header__submit-text{display:block!important;position:relative}.site-header__search .search-header__submit .search-header__submit-icon{position:relative}@media (max-width:1199px){.site-header__search .search-header__submit{min-width:40px;padding:0}.site-header__search .search-header__submit .search-header__submit-text{display:none!important}.site-header__search .search-header__submit .search-header__submit-icon{margin-inline-end:0}}@media (min-width:1441px){.search_autocomplete{max-width:100%;inset-inline-start:0!important;border-radius:3px}}.header-cart.type_text .site-header__cart-icon{border:1px solid hsla(0,0%,100%,.1);background-color:rgba(0,0,0,.1);min-width:130px;min-height:50px;align-items:center;border-radius:40px}.header-cart.type_text .site-header__cart-icon>span{font-size:14px}.header-cart.type_text .site-header__cart-icon .site-header__cart-count{position:static;width:2rem;height:2rem;font-size:12px}.header-cart.type_text .site-header__cart-icon:hover{border-color:var(--color-button-border)!important;background-color:var(--color-button)!important;color:var(--color-button-text)}.header-cart.type_text .site-header__cart-icon:hover .site-header__cart-count{color:var(--color-button-text-hover);background-color:var(--color-button-hover)}@media (max-width:1199px){.header-cart.type_text .site-header__cart-icon{border:none;background-color:transparent;min-width:auto;min-height:auto;align-items:center;border-radius:0}.header-cart.type_text .site-header__cart-icon span.cart_text{display:none}.header-cart.type_text .site-header__cart-icon .site-header__cart-count{position:absolute;inset-block-start:-6px;inset-inline-end:-8px}#header-sticky .bl_content{padding-inline-start:4.5rem}}
+
+#popup-subscribe,
+.newsletter.modal,
+.modal.newsletter,
+.modal-backdrop,
+.modal-backdrop.show,
+div.modal-backdrop {
+    display: none !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
+    z-index: -99999 !important;
+    width: 0 !important;
+    height: 0 !important;
+}
+
+#popup-subscribe,
+.newsletter.modal,
+.modal.newsletter,
+.modal-backdrop,
+.modal-backdrop.show,
+div.modal-backdrop {
+    display: none !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
+    z-index: -99999 !important;
+    width: 0 !important;
+    height: 0 !important;
+}
+
+#popup-subscribe,
+.newsletter.modal,
+.modal.newsletter,
+.modal-backdrop,
+.modal-backdrop.show,
+div.modal-backdrop {
+    display: none !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
+    z-index: -99999 !important;
+    width: 0 !important;
+    height: 0 !important;
+}
